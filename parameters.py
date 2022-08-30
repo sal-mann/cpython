@@ -1,5 +1,5 @@
-name ="ahmad"
+name = "umer"
 age = 20
-f_name = "ali"
+f_name = "imran"
 
 print("My name is", name ,"and my father name is", f_name)
