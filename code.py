@@ -14,7 +14,7 @@
 # rate=int(input("Enter rate"))
 # time=int(input("Enter time"))
 
-# simple_interest=principal*rate*time
+# simple_interest=(principal*rate*time)/100
 # total_ammount=principal+simple_interest
 
 # print("total_interset:" + str (simple_interest))
