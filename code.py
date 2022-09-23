@@ -19,16 +19,13 @@
 
 # print("total_interset:" + str (simple_interest))
 # print("total_ammount:"+ str (total_ammount))
-
-# Enter principal=1399
+# Enter principle=1399
 # Enter rate=17
 # Enter time=13
 principal=int(input("Enterprincipal"))
 rate=int(input("Enter rate"))
 time=int(input("Enter time"))
-
 simple_interest=(principal*rate*time)/100
-total_ammount=principal+simple_interest
-
+total_ammount=simple_interest+principal
 print("total_interest:"+ str (simple_interest))
 print("total_ammount:" + str (total_ammount))
