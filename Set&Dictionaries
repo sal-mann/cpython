@@ -1,0 +1,10 @@
+# set={"salman","usman","rehman","ahmad"}
+# print(set)
+
+# set={"lahore","multan","islamabad","karachi","queeta"}
+# set.add("bwp")
+# print(set)
+
+set={"lahore","multan","islamabad","karachi",}
+set.add("lahore")
+print(set)
