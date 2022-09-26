@@ -23,11 +23,13 @@
 
 ## total_interest
 ## total_ammount
-principal=int(input("Enter principal:"))
-rate=int(input("Enter rate:"))
-time=int(input("Enter time:"))
-simpe_interest=principal+rate+time/100
-total_ammount=simpe_interest+principal
-print("total_interset:" ,str(simpe_interest))
-print("total_ammount:" ,str(total_ammount))
+# principal=int(input("Enter principal:"))
+# rate=int(input("Enter rate:"))
+# time=int(input("Enter time:"))
+# simpe_interest=principal*rate*time/100
+# total_ammount=simpe_interest+principal
+# print("total_interset:" +str(simpe_interest))
+# print("total_ammount:" +str(total_ammount))
 
+
+# A program to find the area of triagle

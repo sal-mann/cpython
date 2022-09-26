@@ -1,0 +1,45 @@
+# list =["Salman","Ahmad","Alia","Umer","Usman"]
+# print(list)
+
+# list =["Salman","Umer","sufyan"]
+# list[1]="ALi"
+# print(list)
+
+
+# list=["Salman","Rehman","Hassan","Akber",]
+# list.append("Nazir")
+#  list.append("Usman")
+# print(list)
+
+# list=["salman","Waseem","Nadeem","Ali","Hazma"]
+# list.remove("Waseem")
+# print(list)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# tuple=("Computer","Bike","Car","Cycle","Hardware")
+# print(tuple)
+
+# tuple=("Computer","Bike","Car",)
+# tuple[1]="Cycle"
+# print(tuple)
+
+
+# tuple=("salman","moon","month","error","solve")
+# print(len(tuple))
+
+# hardware=("mouse","keybord","printer","monitor")
+# software=("photoshop","vscode","pychorm")
+# x=hardware+software
+# print(x)
